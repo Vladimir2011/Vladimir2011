@@ -1,6 +1,6 @@
 # Hi everyone 👋
 
-My name is Vladimir Garbuzov. I am a frontend developer living in Moscow, Russia! 👀
+My name is Vladimir Garbuzov. I am a frontend developer (Vue.js + Nuxt.js) 👀
 
 ## 🛠  Technologies and tools
 
