@@ -34,6 +34,8 @@ My name is Vladimir Garbuzov. I am a frontend developer (Vue.js + Nuxt.js) 👀
 &nbsp;
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Pinia-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
+&nbsp;
 
 ## 👾  What I am interested in learning at some point
 
